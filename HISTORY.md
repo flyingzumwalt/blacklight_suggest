@@ -1,0 +1,1 @@
+This gem was started from the code in [pull request #241](https://github.com/sul-dlss/earthworks/pull/241) by Jack Reed (mejackreed) on Stanford's Earthworks project.

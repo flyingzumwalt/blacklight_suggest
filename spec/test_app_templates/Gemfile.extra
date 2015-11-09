@@ -1,0 +1,1 @@
+gem 'blacklight' # this prevents the blacklight:install generator from failing when it runs the migrations (complained about blacklight_for not being defined)
